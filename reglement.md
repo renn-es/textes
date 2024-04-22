@@ -106,3 +106,7 @@ Les conditions générales d'utilisation peuvent être modifiées avec l'accord 
 Les administrateur·ice·s système ayant la capacité matérielle (dont l'exercice est dans certains cas illégal) d'accéder aux données personnelles des utilisateur·ice·s, iels doivent avoir l'accord de 75% des membres présents en AG avant leur prise de fonctions.
 
 Les administrateur·ice·s sont choisi·e·s par les autres administrateur·ice·s au besoin et seulement si la personne concernée est volontaire, assurant une transmission des savoirs et des principes éthiques de l'association.
+
+## 11. Accord sur les dépenses
+
+Toute dépense supplémentaire (i.e. pas les abonnements auxquels l'association a déjà souscrit) doit être soumise au trésorier et au président (qui peut être remplacé pour cette décision par le vice-président uniquement si le vice-président et le trésorier sont deux personnes distinctes). Ces deux personnes doivent donner leur accord unanime pour cette dépense.
