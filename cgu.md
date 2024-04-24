@@ -2,11 +2,11 @@
 title: "Conditions générales d'utilisation de Renn.es"
 ---
 
-Renn.es est une association proposant des services Internet comme alternatives aux outils proposés par les géants de la tech au détriment de la vie privée de leurs utilisateur·ice·s. Renn.es est géré et contrôlé par ses utilisateur·ice·s uniquement, assurant leur intérêt en toute circonstance.
+Renn.es est une association proposant des services Internet comme alternatives aux outils proposés par les géants de la tech. Elle est gérée et contrôlée par ses utilisateur·ice·s uniquement, assurant leur intérêt en toute circonstance.
 
 Les services de Renn.es sont proposés tels quels, sans garantie de disponibilité permanente par exemple, mais ses administrateur·ice·s sont dévoués et tentent de faire de leur mieux; néanmoins il pourrait y avoir des cas de perte de données comme dans tous les cas en informatique, veillez donc à avoir des sauvegardes de vos données au cas où!
 
-Ainsi, Renn.es est géré entièrement par des bénévoles, qui ont une vie en dehors de l'informatique et donc ne seront pas là en permanence pour réparer des serveurs, répondre à des questions, etc.
+Ainsi, Renn.es est gérée entièrement par des bénévoles, qui ont une vie en dehors de l'informatique et donc ne seront pas là en permanence pour réparer des serveurs, répondre à des questions, etc.
 
 ## Engagement des utilisateur·ice·s
 
