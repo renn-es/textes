@@ -39,7 +39,7 @@ Dans ces CGU, "Nous" et "Renn.es" peut désigner l'équipe administratrice des s
 1. Les services de Renn.es sont fournis tels quels et son utilisation se fait à vos propres risques;
 2. Vous ne devez pas modifier un autre site afin de signaler faussement qu'il est affilé avec nous;
 3. Les comptes ne peuvent être créés et utilisés que par des humain·e·s, et toute création ou utilisation par des robots n'est pas la bienvenue; pour cette raison, les comptes créés automatiquement sont plus que susceptibles d'êtres fermés;
-4. Vous êtes responsable de la sécurité de votre compte et de votre mot de passe: Renn.es ne pourra en aucun cas être tenu responsable d'un piratage résultant d'un mot de passe trop faible (trop faible = qui peut être deviné par un ordinateur en un temps raisonnable; en dessous de 10-15 caractères, c'est toujours trop faible, et au-delà, c'est pas sûr que ce soit sûr).
+4. Vous êtes responsable de la sécurité de votre compte et de votre mot de passe: Renn.es ne pourra en aucun cas être tenue responsable d'un piratage résultant d'un mot de passe trop faible (trop faible = qui peut être deviné par un ordinateur en un temps raisonnable; en dessous de 10-15 caractères, c'est toujours trop faible, et au-delà, c'est pas sûr que ce soit sûr).
 5. Vous êtes responsable de tout ce que vous faites sur vos comptes.
 6. Nos services ne peuvent pas être utilisés à des fins illégales ou non autorisées. Vous ne devez pas transgresser les lois qui s'appliquent à vous ou à Renn.es (= droit français).
 7. Vous ne pouvez pas vendre, échanger, revendre, ou exploiter dans un but commercial non autorisé un compte du service utilisé.
@@ -89,7 +89,7 @@ Conformément à ses statuts, l'association Renn.es se réserve le droit de vous
 
 ### Données personnelles
 
-Conformément à l’article 34 de la loi « Informatique et Libertés », Renn.es garantit à l’utilisateur·ice un droit d’opposition, d’accès et de rectification sur les données nominatives le·la concernant. L’utilisateur·ice a la possibilité d’exercer ce droit en utilisant le formulaire de contact mis à sa disposition.
+Conformément à l’article 34 de la loi « Informatique et Libertés », Renn.es garantit à l’utilisateur·ice un droit d’opposition, d’accès et de rectification sur les données nominatives le·la concernant. L’utilisateur·ice a la possibilité d’exercer ce droit en envoyant un courriel à l'adresse admin@renn.es.
 
 - Pour utiliser certains services Renn.es, vous devez créer un compte. Renn.es demande certaines informations personnelles : une adresse e-mail valide et un mot de passe qui est utilisé pour protéger votre compte contre tout accès non autorisé. Les champs « Nom » et « Prénom » peuvent être requis pour le bon fonctionnement du logiciel, mais il n’est pas nécessaire qu’ils révèlent votre véritable identité.
 - Vos données ne sont ni vendues, ni transmises à des tiers.
