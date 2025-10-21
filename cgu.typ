@@ -1,6 +1,8 @@
----
-title: "Conditions générales d'utilisation de Renn.es"
----
+#align(center, text(17pt)[
+  *Conditions générales d'utilisation de Renn.es*
+])
+
+#set heading(numbering: "1.")
 
 Renn.es est une association proposant des services Internet comme alternatives aux outils proposés par les géants de la tech. Elle est gérée et contrôlée par ses utilisateur·ice·s uniquement, assurant leur intérêt en toute circonstance.
 
@@ -8,13 +10,13 @@ Les services de Renn.es sont proposés tels quels, sans garantie de disponibilit
 
 Ainsi, Renn.es est gérée entièrement par des bénévoles, qui ont une vie en dehors de l'informatique et donc ne seront pas là en permanence pour réparer des serveurs, répondre à des questions, etc.
 
-## Engagement des utilisateur·ice·s
+= Engagement des utilisateur·ice·s
 
 En utilisant nos services, et peut-être en devenant membre de Renn.es, vous acceptez les conditions générales d'utilisation qui suivent. Elles peuvent être modifiées à tout moment, mais si vous êtes membre de l'association, vous en serez notifié·e.
 
-Les conditions générales d'utilisation qui suivent sont largement inspirées de [celles de Framasoft](https://framasoft.org/fr/cgu/).
+Les conditions générales d'utilisation qui suivent sont largement inspirées de celles de Framasoft.
 
-## Version courte
+= Version courte
 
 On est sympathiques:
 
@@ -30,11 +32,11 @@ Mais on respecte la loi et on vous demande de nous respecter, ainsi que la loi, 
 - Les services peuvent fermer ou être victimes de piratage(s): encore une fois, on n'est que des bénévoles;
 - Le conseil d'administration, ou, en appel, les membres de l'association, peuvent juger que vous n'êtes pas la ou le bienvenu·e chez nous: si vous êtes lourd·e pour nos serveurs ou pour nos nerfs, c'est tchao!
 
-## Version complète
+= Version complète
 
-Dans ces CGU, "Nous" et "Renn.es" peut désigner l'équipe administratrice des serveurs, le bureau, le conseil d'administration ou l'entité constituée des membres de l'association votant à majorité absolue.
+Dans ces CGU, "Nous" et "Renn.es" peut désigner l'équipe administratrice des serveurs ou l'association suivant son mode de décision précisé dans les statuts et le règlement intérieur.
 
-### Conditions de service
+== Conditions de service
 
 1. Les services de Renn.es sont fournis tels quels et son utilisation se fait à vos propres risques;
 2. Vous ne devez pas modifier un autre site afin de signaler faussement qu'il est affilé avec nous;
@@ -61,12 +63,12 @@ Vous comprenez et acceptez que l’association Renn.es et ses membres ne puisse 
   - toute autre question relative au service.
 5. L’échec de Renn.es à exercer ou à appliquer tout droit ou disposition des Conditions Générales d’Utilisation ne constitue pas une renonciation à ce droit ou à cette disposition. Les Conditions d’utilisation constituent l’intégralité de l’accord entre vous et Renn.es et régissent votre utilisation du service, remplaçant tous les accords antérieurs entre vous et Renn.es (y compris les versions précédentes des Conditions Générales d’Utilisation).
 
-### Modifications de service
+== Modifications de service
 
 1. Renn.es se réserve le droit, à tout moment de modifier ou d’interrompre, temporairement ou définitivement, un ou plusieurs service(s) avec ou sans préavis.
 2. Renne.es ne sera pas responsable envers vous ou tout tiers pour toute modification, suspension ou interruption du service.
 
-### Contenu
+== Contenu
 
 1. Vous ne pouvez pas envoyer, télécharger, publier sur un blog, distribuer, diffuser tout contenu illégal, diffamatoire, harcelant, abusif, frauduleux, contrefait, obscène ou autrement répréhensible.
 2. Nous ne revendiquons aucun droit sur vos données : textes, images, son, vidéo, ou tout autre élément, que vous téléchargez ou transmettez depuis votre compte.
@@ -75,21 +77,20 @@ Vous comprenez et acceptez que l’association Renn.es et ses membres ne puisse 
 5. Nous nous réservons le droit de supprimer tout contenu nous paraissant non pertinent pour l’usage du service, selon notre seul jugement.
 6. Nous pouvons, si nécessaire, supprimer ou empêcher la diffusion de tout contenu sur le service qui ne respecterait pas les présentes conditions.
 
-### Édition et partage de données
+== Édition et partage de données
 
 1. Les fichiers que vous créez avec le service peuvent être – si vous le souhaitez – lus, copiés, utilisés et redistribués par des gens que vous connaissez ou non.
 2. En rendant publiques vos données, vous reconnaissez et acceptez que toute personne utilisant ce site web puisse les consulter sans restrictions.
 3. Mais le service peut également vous proposer la possibilité d’autoriser l’accès et le travail collaboratif sur ses documents de manière restreinte à un·e ou plusieurs autres utilisateur·ices.
 4. Renn.es ne peut être tenue responsable de tout problème résultant du partage ou de la publication de données entre utilisateur·ices.
 
-### Résiliation, radiation
+== Résiliation, radiation
 
 Conformément à ses statuts, l'association Renn.es se réserve le droit de vous radier et de supprimer vos données pour des raisons légales, morales ou purement pratiques. Dans la plupart des cas, vous pourrez alors récupérer les données avant leur suppression; assurez vous néanmoins que nous ayons les moyens de vous contacter.
 
+== Données personnelles
 
-### Données personnelles
-
-Conformément à l’article 34 de la loi « Informatique et Libertés », Renn.es garantit à l’utilisateur·ice un droit d’opposition, d’accès et de rectification sur les données nominatives le·la concernant. L’utilisateur·ice a la possibilité d’exercer ce droit en envoyant un courriel à l'adresse admin@renn.es.
+Conformément à l’article 34 de la loi « Informatique et Libertés », Renn.es garantit à l’utilisateur·ice un droit d’opposition, d’accès et de rectification sur les données nominatives le·la concernant. L’utilisateur·ice a la possibilité d’exercer ce droit en envoyant un courriel à l'adresse `admin arobase renn point es`.
 
 - Pour utiliser certains services Renn.es, vous devez créer un compte. Renn.es demande certaines informations personnelles : une adresse e-mail valide et un mot de passe qui est utilisé pour protéger votre compte contre tout accès non autorisé. Les champs « Nom » et « Prénom » peuvent être requis pour le bon fonctionnement du logiciel, mais il n’est pas nécessaire qu’ils révèlent votre véritable identité.
 - Vos données ne sont ni vendues, ni transmises à des tiers.
